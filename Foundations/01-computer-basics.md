@@ -191,21 +191,32 @@ To attack systems, you must understand:
 - Where vulnerabilities hide
 
 ---
+## 10. My Understanding (Personal Notes)
 
-1. What are the main computer components?
+### **1. What are the main computer components?**
 
-The main components of a computer are the CPU, RAM, storage, input devices, and output devices.
-The CPU acts as the brain and processes instructions, RAM temporarily stores data that the CPU is actively using, and storage permanently stores files and programs.
+The main components of a computer are the **CPU, RAM, storage, input devices, and output devices** .
+
+The **CPU** acts as the brain and processes instructions, **RAM** temporarily stores data that the CPU is actively using, and **storage** permanently stores files and programs.
+
 Input devices allow users to give instructions, while output devices display the results.
 
-2. How does RAM differ from storage?
+---
 
-RAM is temporary memory used to store data that the computer is currently working on, and it is cleared when the system is turned off.
-Storage is permanent memory that keeps data even after the system is powered off.
+### **2. How does RAM differ from storage?**
+
+**RAM** is temporary memory used to store data that the computer is currently working on, and it is cleared when the system is turned off.
+
+**Storage** is permanent memory that keeps data even after the system is powered off.
+
 RAM is much faster than storage, which is why active programs are loaded into RAM instead of running directly from storage.
 
-3. Why is binary important for cybersecurity?
+---
 
-Binary is important for cybersecurity because all data, programs, and instructions are ultimately represented as 0s and 1s.
+### **3. Why is binary important for cybersecurity?**
+
+Binary is important for cybersecurity because **all data, programs, and instructions are ultimately represented as 0s and 1s** .
+
 Understanding binary helps in analyzing malware, network traffic, and system behavior at a low level.
+
 Many security vulnerabilities and exploits operate by manipulating binary data directly.
