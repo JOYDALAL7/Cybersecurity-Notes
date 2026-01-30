@@ -225,10 +225,18 @@ Hacking means:
 
 ---
 
-## 10. My Understanding (Personal Notes)
+### My Understanding (Personal Notes)
 
-_Write this in your own words:_
+**What is kernel vs user space?**
+Kernel space is the most powerful part of the operating system where the kernel runs and has full control over hardware, memory, and system resources.
+User space is where applications and users operate with limited permissions and must request access from the kernel.
+Most attacks start in user space and try to reach kernel space.
 
-- What is kernel vs user space?
-- Why privilege escalation matters
-- Which OS seems most interesting to attack and why?
+**Why privilege escalation matters**
+Privilege escalation matters because having access as a normal user is limited and not enough to fully control a system.
+If an attacker escalates privileges to root or administrator, they can read any file, modify the system, install malware, and maintain persistence.
+Without privilege escalation, most attacks remain incomplete.
+
+**Which OS seems most interesting to attack and why?**
+Linux seems the most interesting to attack because it is widely used on servers and often misconfigured.
+Many real-world systems run Linux, and small permission or configuration mistakes can lead to full system compromise.

@@ -68,8 +68,35 @@ CYBERSECURITY/
 │ ├── 49-report-writing.md
 │ └── 50-real-bug-bounty-reports.md
 │
+├──QA-Testing/
+│   ├── 55-QA-fundamentals.md
+│   ├── 56-SDLC-vs-STLC.md
+│   ├── 57-types-of-testing.md
+│   ├── 58-test-artifacts.md
+│   ├── 59-bug-life-cycle.md
+│   ├── 60-manual-testing-core.md
+│   ├── 61-test-case-writing.md
+│   ├── 62-exploratory-testing.md
+│   ├── 63-cross-browser-mobile-testing.md
+│   ├── 64-SQL-for-QA.md
+│   ├── 65-database-testing.md
+│   ├── 66-API-testing-basics.md
+│   ├── 67-Postman-in-depth.md
+│   ├── 68-automation-introduction.md
+│   ├── 69-programming-basics-for-QA.md
+│   ├── 70-Selenium-WebDriver.md
+│   ├── 71-TestNG-PyTest.md
+│   ├── 72-Page-Object-Model.md
+│   ├── 73-CI-CD-for-QA.md
+│   ├── 74-performance-testing-JMeter.md
+│   ├── 75-mobile-testing-Appium.md
+│   └── 76-QA-interview-preparation.md
+│
 └── Projects/
-├── 51-linux-security-project.md
-├── 52-web-application-pentest.md
-├── 53-SOC-mini-project.md
-└── 54-capstone-cyber-project.md
+    ├── 77-manual-testing-project.md
+    ├── 78-API-testing-project.md
+    ├── 79-Selenium-automation-project.md
+    ├── 80-linux-security-project.md
+    ├── 81-web-application-pentest.md
+    ├── 82-SOC-mini-project.md
+    └── 83-capstone-cyber-project.md
